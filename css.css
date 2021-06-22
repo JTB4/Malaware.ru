@@ -1,0 +1,12 @@
+body{
+	background-color: blue;
+	font-family: CONSOLAS;
+	font-size: x-large;
+	color: white;
+	cursor: help;
+}
+nav{
+	background-color: white;
+	font-family: CONSOLAS;
+	font-size: medium;
+}
